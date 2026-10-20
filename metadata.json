@@ -1,0 +1,6 @@
+{
+  "name": "PulseInterval - Visual Training & Interval Timer",
+  "description": "Full-screen visual training session timer with customizable segment intervals, high-contrast color flood, synthesized audio countdown cues, and dark mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
